@@ -3,7 +3,8 @@ This is a curated list of resources for those who want to get started with ethic
 # The Internet
 ### IP Addresses
 * https://www.cloudflare.com/learning/dns/glossary/what-is-my-ip-address/
-* https://www.codedbrain.com/2019/12/one-hell-of-an-ip-addresspart-1-non-technical-perspective/
+* https://www.codedbrain.com/one-hell-of-an-ip-address-part-1/
+* https://www.codedbrain.com/one-hell-of-an-ip-addresspart-2/
 * https://www.iplocation.net/public-vs-private-ip-address
 
 ### DNS
